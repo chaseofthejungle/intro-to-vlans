@@ -24,4 +24,6 @@
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Official Cisco Guide on Configuring VLAN Trunks](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst1000/software/releases/15_2_7_e/configuration_guides/vlan/b_1527e_vlan_c1000_cg/configuring_vlan_trunks.pdf)*
+* *[Official Ubiquiti Help Documentation on Switch Port VLAN Assignment for Trunk and Access Ports](https://help.ui.com/hc/en-us/articles/26136855808919-Switch-Port-VLAN-Assignment-Trunk-Access-Ports)*
+* *[Official Palo Alto Customer Support Guide on Implementing a Virtual Wire Between Trunked Interfaces](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClFwCAK)*

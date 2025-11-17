@@ -1,6 +1,6 @@
 # Intro to Virtual Area Networks (VLANs) Overview Guide
 
-**TODO:** A brief introductory guide to Virtual Area Networks (VLANs) and their practicality.
+**Description/Overview:** Virtual Local Area Networks (VLANs) provide a mechanism for segmenting physical networks into smaller virtual networks that can be connected to the other segments. Network and system administrators create VLAN segments to group together devices securely, in a centralized and easily modifiable manner, and by category (e.g., organizational department, functionality), while optimizing performance and accounting for scalability by minimizing the prevalance of and need for broadcast traffic.
 
 #### Table of Contents
 
